@@ -1,4 +1,4 @@
-//g++ servo.cc -o servo -lws2_32 to compile
+//g++ chat.cc -o chat -lws2_32 to compile
 
 #include <winsock2.h>
 #include <string>
